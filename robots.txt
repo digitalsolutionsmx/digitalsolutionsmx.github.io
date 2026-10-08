@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digitalsolutionsmx.github.io/sitemap.xml
