@@ -97,6 +97,7 @@ p { margin: 0 0 16px; }
 .btn-solid:hover { filter: brightness(1.08); }
 .btn-ghost { color: var(--text); border: 1px solid var(--line); font-weight: 600; }
 .btn-ghost:hover { border-color: var(--muted); }
+.btn.soon { color: var(--muted); cursor: default; transform: none; border-style: dashed; }
 
 /* Cards and grids */
 .grid { display: grid; gap: 16px; }
