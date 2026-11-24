@@ -194,6 +194,7 @@ td { color: var(--muted); }
 .foot-grid p { color: var(--muted); }
 .foot-grid .brand { margin-bottom: 14px; }
 .foot-head { color: var(--text) !important; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; }
+.foot-grid a + .foot-head { margin-top: 22px; }
 .legal { color: var(--muted); font-size: 13px; text-align: center; margin: 40px 0 0; }
 
 /* Responsive */
